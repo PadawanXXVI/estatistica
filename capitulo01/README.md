@@ -1,5 +1,7 @@
 # ANÁLISE EXPLORATÓRIA DE DADOS - AED
 
+## ELEMENTOS DE DADOS ESTRUTURADOS
+
 ## Termos-chave para tipos de dados
 
 ### Contínuos
