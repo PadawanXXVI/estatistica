@@ -57,8 +57,8 @@ Sinônimos: variável dependente, resposta, alvo, resultado.
 Uma linha na tabela costuma ser chamada de registro.  
 Sinônimos: caso, exemplo, instância, observação, padrão, amostra.
 
-## QUADRO DE DADOS E ÍNDICE
+### QUADRO DE DADOS E ÍNDICE
 
 As tabelas de banco de dados tradicionalmente têm uma ou mais colunas designadas como um índice. Isso pode melhorar muito a eficiência em certas buscas SQL.
 
-## ESTRUTURAS DE DADOS NÃO RETANGULARES
+### ESTRUTURAS DE DADOS NÃO RETANGULARES
