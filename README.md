@@ -5,3 +5,4 @@
 | Índice | Assunto | Link |
 | :-: | :-: | :-: |
 | Capítulo 01 | Análise exploratória de dados | [Capítulo 01](capitulo01/)|
+| Capítulo 02 ||[Capítulo 02]()|
