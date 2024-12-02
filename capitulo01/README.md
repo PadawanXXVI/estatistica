@@ -127,7 +127,7 @@ Uma variação da média é a *média aparada*, a qual se calcula excluindo um n
 A fórmula da média aparada é:
 
 $$
-Trimmed\ mean = \overline{x}_{\text{aparada}} = \frac{\sum_{i=p+1}^{n-p} x_i}{n - 2p}
+\text{Trimmed mean} = \overline{x}_{\text{aparada}} = \frac{\sum_{i=p+1}^{n-p} x_i}{n - 2p}
 $$
 
 Onde:
