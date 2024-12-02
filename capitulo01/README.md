@@ -130,14 +130,10 @@ $$
 Trimmed\ mean = \overline{x}_{\text{aparada}} = \frac{\sum_{i=p+1}^{n-p} x_i}{n - 2p}
 $$
 
-Onde:
-
-$\overline{x}_{\text{aparada}}$ é a média aparada.
-
-${𝑥}_{𝑖}$ são os valores ordenados.
-
-$𝑛$ é o número total de valores.
-
+Onde:  
+$\overline{x}_{\text{aparada}}$ é a média aparada.  
+${𝑥}_{𝑖}$ são os valores ordenados.  
+$𝑛$ é o número total de valores.  
 $p$ é o número de valores a serem removidos de cada extremidade da lista ordenada.
 
 Essa fórmula assume que os valores ${𝑥}_{𝑖}$ foram previamente ordenados em ordem crescente e que $p$ valores foram removidos das extremidades superior e inferior.
