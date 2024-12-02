@@ -151,7 +151,7 @@ Outro tipo de média é a média ponderada, a qual se calcula pela multiplicaç�
 A fórmula da média ponderada é:
 
 $$
-Weighted\ mean = \overline{x}_{w} = \frac{\sum_{i=1}^{n} w_i x_i}{\sum_{i=1}^{n} w_i}
+\text{Weighted mean} = \overline{x}_{w} = \frac{\sum_{i=1}^{n} w_i x_i}{\sum_{i=1}^{n} w_i}
 $$
 
 
