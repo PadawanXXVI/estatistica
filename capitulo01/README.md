@@ -127,7 +127,7 @@ Uma variação da média é a *média aparada*, a qual se calcula excluindo um n
 A fórmula da média aparada é:
 
 $$
-\text{Trimmed mean} = \overline{x}_{\text{aparada}} = \frac{\sum_{i=p+1}^{n-p} x_i}{n - 2p}
+Trimmed\ mean = \overline{x}_{\text{aparada}} = \frac{\sum_{i=p+1}^{n-p} x_i}{n - 2p}
 $$
 
 Onde:
@@ -151,7 +151,7 @@ Outro tipo de média é a média ponderada, a qual se calcula pela multiplicaç�
 A fórmula da média ponderada é:
 
 $$
-\text{Weighted mean} = \overline{x}_{w} = \frac{\sum_{i=1}^{n} w_i x_i}{\sum_{i=1}^{n} w_i}
+Weighted\ mean = \overline{x}_{w} = \frac{\sum_{i=1}^{n} w_i x_i}{\sum_{i=1}^{n} w_i}
 $$
 
 
