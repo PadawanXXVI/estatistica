@@ -154,6 +154,5 @@ $$
 Weighted\ mean = \overline{x}_{w} = \frac{\sum_{i=1}^{n} w_i x_i}{\sum_{i=1}^{n} w_i}
 $$
 
-
 Existem duas razões principais para o uso da média ponderada:
 - Alguns valores são intrisicamente mais variáveis que outros
