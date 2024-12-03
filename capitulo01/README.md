@@ -131,7 +131,7 @@ Trimmed\ mean = \overline{x}_{\text{aparada}} = \frac{\sum_{i=p+1}^{n-p} x_i}{n 
 ```
 
 Onde:  
-$\overline{x}_{\text{aparada}}$ é a média aparada.  
+$`\overline{x}_{\text{aparada}}`$ é a média aparada.  
 ${𝑥}_{𝑖}$ são os valores ordenados.  
 $𝑛$ é o número total de valores.  
 $p$ é o número de valores a serem removidos de cada extremidade da lista ordenada.
