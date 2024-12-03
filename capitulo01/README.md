@@ -142,7 +142,7 @@ Uma média aparada elimina a influência dos valores extremos. Por exemplo, em u
 
 ### Média ponderada
 
-Outro tipo de média é a média ponderada, a qual se calcula pela multiplicação de cada valor de dado ${x}_{i}$, por um peso ${w}_{i}$ e dividindo sua somatória pela soma total de todos os pesos.
+Outro tipo de média é a média ponderada, a qual se calcula pela multiplicação de cada valor de dado $`{x}_{i}`$, por um peso $`{w}_{i}`$ e dividindo sua somatória pela soma total de todos os pesos.
 
 A fórmula da média ponderada é:
 
