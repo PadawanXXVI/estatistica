@@ -152,3 +152,13 @@ Weighted\ mean = \overline{x}_{w} = \frac{\sum_{i=1}^{n} w_i x_i}{\sum_{i=1}^{n}
 
 Existem duas razões principais para o uso da média ponderada:
 - Alguns valores são intrisicamente mais variáveis que outros
+
+### MEDIANA E ESTIMATIVAS ROBUSTAS
+
+A *mediana* é a medida central em uma lista de dados **classificados**. Se houver um número par de valores de dados, o valor central é aquele que não está relamente no conjunto de dados, mas sim a média dos dois valores que dividem os valores classificados nas metades superior e inferior.
+
+### Outliers
+
+A mediana é chamada de estimativa *robusta* de localização, pois não é influenciada por *outliers* (casos extremos), que podem enviesar os resultados. Um outlier é qualquer valor que seja muito distante dos outros valores em um conjunto de dados. Se um outlier por si só não torna um valor de dado invélido ou errado, os outliers costumam ser o rsultado de erros de dados, como misturar dados de unidades diferentes (quilômetros versus metros) ou leituras ruins de um sensor. Quando os outliers são resultado de dados ruins, a média resultará em uma má estimativa de localização, enquanto a mediana ainda será válida. Em qualquer caso, os outliers devem ser identificados e costmam ser dignos de maior investigação.
+
+A mediana não é a única estimativa de localização robusta. Na verdade, a média aparada é muito usada para evitar a influência de outliers.
