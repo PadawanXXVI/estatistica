@@ -162,3 +162,66 @@ A *mediana* é a medida central em uma lista de dados **classificados**. Se houv
 A mediana é chamada de estimativa *robusta* de localização, pois não é influenciada por *outliers* (casos extremos), que podem enviesar os resultados. Um outlier é qualquer valor que seja muito distante dos outros valores em um conjunto de dados. Se um outlier por si só não torna um valor de dado invélido ou errado, os outliers costumam ser o rsultado de erros de dados, como misturar dados de unidades diferentes (quilômetros versus metros) ou leituras ruins de um sensor. Quando os outliers são resultado de dados ruins, a média resultará em uma má estimativa de localização, enquanto a mediana ainda será válida. Em qualquer caso, os outliers devem ser identificados e costmam ser dignos de maior investigação.
 
 A mediana não é a única estimativa de localização robusta. Na verdade, a média aparada é muito usada para evitar a influência de outliers.
+
+## Ideias-chave
+
+A métrica básica para localização é a média, mas esta pode ser sensível a valores extremos (outlier).  
+Outras métricas (mediana, média aparada) são mais robustas.
+
+## ESTIMATIVAS DE VARIABLIDADE
+
+A localização é apenas uma dimensão na sumarização de uma característica. Uma segunda dimensao, *variabilidade*, também chamada de *dispersão*, mede se os valores de dados estão compactados ou espalhados. A variabilidade fica no centro da estatística: medindo, reduzindo, distinguindo variabilidade aleatória de real, identificando as diversas fontes de variabilidade real e tomando decisões em sua presença.
+
+## Termos-cahve para métricas de variabilidade
+
+### Desvios
+
+A diferença entre os valores observados e a estimativa de localização.
+
+Sinônimos: erros, resíduos.
+
+### Variância
+
+A soma dos quadrados dos desvios a média, divididos por $n-1$, em que $n$ é o número de valores de dados.
+
+Sinônimo: erro médio quadrático
+
+### Desvio-padrão
+
+A raiz quadrada da variância.
+
+Sinônimos: norma l2, norma Euclidiana.
+
+### Desvio absoluto médio
+
+A média do valor absoluto dos desvios da média.
+
+Sinônimos: norma l1, norma Manhattan.
+
+### Desvio absoluto mediano da mediana
+
+A mediana do valor absoluto dos desvios da mediana.
+
+### Amplitude
+
+A diferença entre o maior e o menor valor no conjunto de dados.
+
+### Estatísticas ordinais
+
+Métricas baseadas nos valores de dados classificados do menor ao maior.
+
+Sinônimo: classificações
+
+### Percentil
+
+Valor tal que $P$ por cento dos valores assumam esse valor ou menos, e $(100-P)$ por cento assumam esse valor ou mais.
+
+Sinônimo: quantil
+
+### Amplitude interquartílica
+
+A diferença entre o 75º percentil e o 25º percentil.
+
+Sinônimo: IQR
+
+Da mesma forma que há modos diferentes de medir a localização (média, mediana etc.), há também modos diferentes de medir a variabilidade.
