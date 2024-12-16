@@ -172,7 +172,7 @@ Outras métricas (mediana, média aparada) são mais robustas.
 
 A localização é apenas uma dimensão na sumarização de uma característica. Uma segunda dimensao, *variabilidade*, também chamada de *dispersão*, mede se os valores de dados estão compactados ou espalhados. A variabilidade fica no centro da estatística: medindo, reduzindo, distinguindo variabilidade aleatória de real, identificando as diversas fontes de variabilidade real e tomando decisões em sua presença.
 
-## Termos-cahve para métricas de variabilidade
+## Termos-chave para métricas de variabilidade
 
 ### Desvios
 
