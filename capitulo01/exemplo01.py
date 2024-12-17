@@ -44,4 +44,5 @@ plt.boxplot(dados) # cria o boxplot
 plt.title('Taxa de homicídios')
 plt.ylabel('Valores')
 
+# Exibindo o gráfico
 plt.show()
