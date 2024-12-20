@@ -182,7 +182,7 @@ Sinônimos: erros, resíduos.
 
 ### Variância
 
-A soma dos quadrados dos desvios a média, divididos por $n-1$, em que $n$ é o número de valores de dados.
+A soma dos quadrados dos desvios da média, divididos por $n-1$, em que $n$ é o número de valores de dados.
 
 Sinônimo: erro médio quadrático
 
