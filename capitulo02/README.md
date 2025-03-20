@@ -1,3 +1,0 @@
-# DISTRIBUIÇÃO DE DADOS E AMOSTRAS
-
-[Página Inicial](../README.md)
